@@ -1,0 +1,42 @@
+Time,Name,Email,Location,Skills,Perks,Duration,Category
+2023-04-08 22:55:15.696982,Mayank Raj,mraj602@gmail.com,Find the best one,"['skill_CSS', 'skill_C#']",['perk_5 days a week'],1.5,category_ASP.NET WebAPI Development
+2023-04-08 22:57:44.134415,Mayank Raj,mraj602@gmail.com,Find the best one,"['skill_C#', 'skill_C#']",['perk_5 days a week'],1.5,category_ASP.NET WebAPI Development
+2023-04-08 22:59:04.991483,Mayank Raj,mraj602@gmail.com,Find the best one,['skill_Android'],['perk_5 days a week'],3.0,category_Account Management
+2023-04-08 22:59:35.249359,Mayank Raj,mraj602@gmail.com,Find the best one,"['skill_Android', 'skill_Android']",['perk_5 days a week'],3.0,category_Account Management
+2023-04-10 10:05:57.674812,suchismitha,yelisetty.suchismitha@science.christuniversity.in,location_Hyderabad,"['skill_Blockchain', 'skill_Telugu Proficiency (Written)', 'skill_Telugu Proficiency (Spoken)']","['perk_5 days a week', 'perk_Certificate']",3.0,category_AI Analysis
+2023-04-10 10:06:11.138548,suchismitha,yelisetty.suchismitha@science.christuniversity.in,location_Gurgaon,"['skill_Blockchain', 'skill_Telugu Proficiency (Written)', 'skill_Telugu Proficiency (Spoken)']","['perk_5 days a week', 'perk_Certificate']",3.0,category_AI Analysis
+2023-04-10 10:06:59.198532,suchismitha,yelisetty.suchismitha@science.christuniversity.in,location_Gurgaon,"['skill_Tamil Proficiency (Spoken)', 'skill_Telugu Proficiency (Written)', 'skill_Telugu Proficiency (Spoken)']","['perk_5 days a week', 'perk_Certificate']",3.0,category_AI Analysis
+2023-04-10 10:07:10.705709,suchismitha,yelisetty.suchismitha@science.christuniversity.in,location_Gandhinagar,"['skill_Tamil Proficiency (Spoken)', 'skill_Telugu Proficiency (Written)', 'skill_Telugu Proficiency (Spoken)']","['perk_5 days a week', 'perk_Certificate']",3.0,category_AI Analysis
+2023-04-10 10:07:42.643453,suchismitha,yelisetty.suchismitha@science.christuniversity.in,Find the best one,"['skill_Tamil Proficiency (Spoken)', 'skill_Telugu Proficiency (Written)', 'skill_Telugu Proficiency (Spoken)']","['perk_5 days a week', 'perk_Certificate']",3.0,category_AI Analysis
+2023-04-10 10:09:03.334511,Mayank Raj,mraj602@gmail.com,location_Agra,['skill_Chemistry'],['None'],0.25,category_ASP.NET Development
+2023-04-10 10:09:13.798742,Mayank Raj,mraj602@gmail.com,location_Agra,['skill_Chemistry'],['None'],3.0,category_ASP.NET Development
+2023-04-10 10:09:20.471937,Mayank Raj,mraj602@gmail.com,location_Agra,['skill_Chemistry'],['perk_5 days a week'],3.0,category_ASP.NET Development
+2023-04-10 10:09:29.075759,Mayank Raj,mraj602@gmail.com,location_Agra,['skill_Chemistry'],['perk_5 days a week'],3.0,category_App Development
+2023-04-10 10:09:35.843639,Mayank Raj,mraj602@gmail.com,location_Agra,['skill_Chemistry'],['perk_5 days a week'],3.0,category_Cartoon Art
+2023-04-12 12:39:52.077805,Mayank Raj,mraj602@gmail.com,location_Bhubaneswar,['skill_ASP.NET'],['perk_Certificate'],2.0,category_AI Startup Founder
+2023-04-12 12:47:18.240945,P A Neeraja Nair,neeraja.nair@science.christuniversity.in,location_Cochin,"['skill_Business Analysis', 'skill_Teaching']",['perk_Certificate'],0.75,category_Business Operations
+2023-04-12 12:47:28.074203,P A Neeraja Nair,neeraja.nair@science.christuniversity.in,Find the best one,"['skill_Business Analysis', 'skill_Teaching']",['perk_Certificate'],0.75,category_Business Operations
+2023-04-12 12:48:29.576609,P A Neeraja Nair,neeraja.nair@science.christuniversity.in,Find the best one,"['skill_Data Science', 'skill_Teaching']",['perk_Certificate'],0.75,category_Business Operations
+2023-04-12 12:48:40.720441,P A Neeraja Nair,neeraja.nair@science.christuniversity.in,Find the best one,"['skill_Data Science', 'skill_Teaching']",['perk_5 days a week'],0.75,category_Business Operations
+2023-04-14 15:44:40.299037,Mayank Raj,mraj602@gmail.com,location_Bhiwandi,['skill_Python'],['None'],3.0,
+2023-04-14 15:44:44.898018,Mayank Raj,mraj602@gmail.com,location_Badlapur,['skill_Python'],['None'],3.0,
+2023-04-14 15:44:51.941684,Mayank Raj,mraj602@gmail.com,location_Ambernath,['skill_Python'],['None'],3.0,
+2023-04-14 15:44:57.467234,Mayank Raj,mraj602@gmail.com,location_Vasai-Virar,['skill_Python'],['None'],3.0,
+2023-04-14 15:45:00.492275,Mayank Raj,mraj602@gmail.com,location_Vasai,['skill_Python'],['None'],3.0,
+2023-04-14 15:45:08.422370,Mayank Raj,mraj602@gmail.com,location_Ulhasnagar,['skill_Python'],['None'],3.0,
+2023-04-14 15:45:12.439439,Mayank Raj,mraj602@gmail.com,location_Bangalore,['skill_Python'],['None'],3.0,
+2023-04-14 15:45:27.754574,Mayank Raj,mraj602@gmail.com,location_Bangalore,['skill_Event Management'],['None'],3.0,
+2023-04-14 15:45:33.687028,Mayank Raj,mraj602@gmail.com,location_Ulhasnagar,['skill_Event Management'],['None'],3.0,
+2023-04-14 15:45:39.553678,Mayank Raj,mraj602@gmail.com,location_Ambernath,['skill_Event Management'],['None'],3.0,
+2023-04-14 15:46:45.093365,Mayank Raj,mraj602@gmail.com,location_Ambernath,['skill_PCB Soldering'],['None'],3.0,
+2023-04-14 15:46:49.488723,Mayank Raj,mraj602@gmail.com,location_Bangalore,['skill_PCB Soldering'],['None'],3.0,
+2023-04-14 15:46:55.821949,Mayank Raj,mraj602@gmail.com,location_Vasai,['skill_PCB Soldering'],['None'],3.0,
+2023-04-14 15:47:00.661440,Mayank Raj,mraj602@gmail.com,location_Bhiwandi,['skill_PCB Soldering'],['None'],3.0,
+2023-04-14 15:48:00.102425,Mayank Raj,mraj602@gmail.com,location_Bhiwandi,"['skill_CSS', 'skill_HTML', 'skill_PHP', 'skill_WordPress']",['perk_5 days a week'],3.0,
+2023-04-14 15:48:07.727991,Mayank Raj,mraj602@gmail.com,location_Ahmedabad,"['skill_CSS', 'skill_HTML', 'skill_PHP', 'skill_WordPress']",['perk_5 days a week'],3.0,
+2023-04-14 15:48:11.400081,Mayank Raj,mraj602@gmail.com,location_Ambernath,"['skill_CSS', 'skill_HTML', 'skill_PHP', 'skill_WordPress']",['perk_5 days a week'],3.0,
+2023-04-14 15:48:15.627954,Mayank Raj,mraj602@gmail.com,location_Amritsar,"['skill_CSS', 'skill_HTML', 'skill_PHP', 'skill_WordPress']",['perk_5 days a week'],3.0,
+2023-04-14 15:48:19.857665,Mayank Raj,mraj602@gmail.com,location_Bangalore,"['skill_CSS', 'skill_HTML', 'skill_PHP', 'skill_WordPress']",['perk_5 days a week'],3.0,
+2023-04-14 21:39:49.260598,Mayank Raj,mraj602@gmail.com,location_Chennai,['skill_Adobe After Effects'],['perk_Certificate'],12.0,
+2023-04-14 21:41:15.479692,Mayank Raj,mraj602@gmail.com,location_Dehradun,['skill_Adobe Flash'],['None'],5.0,category_AI/Robotics Training
+2023-04-14 21:41:22.682436,Mayank Raj,mraj602@gmail.com,Find the best one,['skill_Adobe Flash'],['None'],5.0,category_AI/Robotics Training
